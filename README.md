@@ -1,0 +1,1 @@
+# Mmanoj09-DAA_Practical_10_Krushkal-s_Algo
